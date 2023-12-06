@@ -1,0 +1,6 @@
+{
+    "elements": [
+        { "type": "cloud", "x": 100, "y": 100, "width": 80, "height": 50, "color": "0xe0e0e0" },
+        { "type": "ground", "x": 0, "y": 400, "width": 800, "height": 200, "color": "0x00ff00" }
+    ]
+}
